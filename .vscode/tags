@@ -4,5 +4,15 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-linear	../linear-search.py	/^def linear-search(A,n,v):$/;"	kind:function	line:3
-linear-search.py	../linear-search.py	1;"	kind:file	line:1
+A	../search.py	/^    A=[26,31,41,53,77,89,93,97]$/;"	kind:variable	line:42
+A	../sort.py	/^    A=[53, 89, 41, 31, 26]$/;"	kind:variable	line:16
+binary_search	../search.py	/^def binary_search(A, n, v):$/;"	kind:function	line:20
+bubble_sort	../sort.py	/^def bubble_sort(A,n):$/;"	kind:function	line:3
+certainty.py	../certainty.py	1;"	kind:file	line:1
+dice_game	../certainty.py	/^def dice_game():$/;"	kind:function	line:4
+linear_search	../search.py	/^def linear_search(A, n, v):$/;"	kind:function	line:3
+random	../certainty.py	/^import random$/;"	kind:namespace	line:2
+roulette	../certainty.py	/^def roulette():$/;"	kind:function	line:14
+search.py	../search.py	1;"	kind:file	line:1
+sentinel_linear_search	../search.py	/^def sentinel_linear_search(A, n, v):$/;"	kind:function	line:11
+sort.py	../sort.py	1;"	kind:file	line:1
